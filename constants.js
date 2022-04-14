@@ -6,7 +6,7 @@ image: "",
 },
 'burger': {
 title: 'Sentimentale',
-contents: "Simpatizzi per i personaggi apparentemente più deboli e vulnerabili.",
+contents: "Simpatizzi per i personaggi apparentemente più deboli e vulnerabili, cominci a piangere non appena parte la musica drammatica e pensi che il tuo personaggio preferito stia per morire.",
 image: "",
 },
 'cart': {
