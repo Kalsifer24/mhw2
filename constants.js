@@ -5,8 +5,8 @@ contents: "Tifi quasi sempre per l'antagonista, non ami le storie a lieto fine e
 image: "",
 },
 'burger': {
-title: 'Sentimentale',
-contents: "Simpatizzi per i personaggi apparentemente più deboli e vulnerabili, cominci a piangere non appena parte la musica drammatica e pensi che il tuo personaggio preferito stia per morire.",
+title: 'SIMP',
+contents: "Guardi solo anime romantici con storie d'amore a lieto fine, i tuoi standard di bellezza sono stati totalmente sovrascritti da quelli dei personaggi 2D.",
 image: "",
 },
 'cart': {
@@ -20,8 +20,8 @@ contents: "Nella tua vita hai visto solo film dello studio ghibli ma ti rapporti
 image: "",
 },
 'happy': {
-title: 'SIMP',
-contents: "Guardi solo anime romantici con storie d'amore a lieto fine, i tuoi standard di bellezza sono stati totalmente sovrascritti da quelli dei personaggi 2D.",
+title: 'Sentimentale',
+contents: "Simpatizzi per i personaggi apparentemente più deboli e vulnerabili, cominci a piangere non appena parte la musica drammatica e pensi che il tuo personaggio preferito stia per morire.",
 image: "",
 },
 'nerd': {
