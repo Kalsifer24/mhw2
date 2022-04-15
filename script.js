@@ -66,11 +66,13 @@ function Risposte(domanda,id){
     if (answers.Ans1 === answers.Ans2 || answers.Ans1 === answers.Ans3 || answers.Ans1 !== answers.Ans2 !== answers.Ans3 ){
         titolo.textContent = RESULTS_MAP[answers.Ans1].title;
         descrizione.textContent = RESULTS_MAP[answers.Ans1].contents;
+        res_img.src = RESULTS_MAP[answers.Ans1].image;
     }
 
     else if(answers.Ans2 === answers.Ans3){
         titolo.textContent = RESULTS_MAP[answers.Ans2].title;
         descrizione.textContent = RESULTS_MAP[answers.Ans2].contents;
+        res_img.src = RESULTS_MAP[answers.Ans2].image;
     }
 
     result.classList.remove("hidden");
@@ -99,8 +101,9 @@ function Reset(){
 
 
 //Selettori
-
+ 
 const reset = document.querySelector("footer button");
+const res_img = document.querySelector("footer img");
 const titolo = document.querySelector("footer h1");
 const descrizione = document.querySelector("footer p");
 const result = document.querySelector("footer div");
